@@ -1,4 +1,4 @@
-package cn.zingking.spring.easyserver;
+package cn.zingking.easyserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
